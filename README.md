@@ -13,6 +13,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hengsorn&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=Hengsorn&color=blue&style=for-the-badge)
-<br>
-![Coder GIF](https://magiccopy.xyz/assets/images/hadder.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
